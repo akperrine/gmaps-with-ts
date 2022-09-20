@@ -1,5 +1,5 @@
 ### Basic Implementation of Typescript with Classes
-==run in browser using parcel==
+Build directions: ==run in browser using parcel==
 
 Focuses of this repository include:
 
